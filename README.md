@@ -1,5 +1,9 @@
 # MySQLBasics
 
+
+# asher commit for appdev
+
+
 A C#/.NET/WPF/MVVM project with a modern design UI and basic commands to interact with a MySQL database
 
 This step by step tutorial aims to guide you to launch properly the project by taking in account the difference between the original local database of this project and your local database.
@@ -27,7 +31,7 @@ This step by step tutorial aims to guide you to launch properly the project by t
    
 10) Bravo, now enjoy my dear geek !
 
-
+##IstandwithDemocracyandCapitalism
 
 
 The below screenshot corresponds to what your are going to see at application launch. Nice isn't it :)
